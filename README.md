@@ -67,8 +67,8 @@ This tool is especially useful for:
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/e21c7707-dfd7-4ed1-9791-18449a60472f)
 
-> Coming Soon... (Include images of your Streamlit UI output after running)
 
 ---
 
