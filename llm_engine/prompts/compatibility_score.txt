@@ -1,0 +1,19 @@
+You're an expert in understanding human compatibility based on lifestyle preferences.
+
+Two people are looking to be roommates. Based on the following details, rate their compatibility on a scale of 0 to 100 and explain your reasoning.
+
+Profile A:
+Name: {{name_a}}, Age: {{age_a}}, Gender: {{gender_a}}, City: {{city_a}}, 
+Food Preference: {{food_a}}, Sleep Schedule: {{sleep_a}}, Cleanliness Level: {{clean_a}},
+Smoking/Drinking: {{smoke_a}}, Personality: {{personality_a}}, 
+Ideal Roommate: {{ideal_a}}
+
+Profile B:
+Name: {{name_b}}, Age: {{age_b}}, Gender: {{gender_b}}, City: {{city_b}}, 
+Food Preference: {{food_b}}, Sleep Schedule: {{sleep_b}}, Cleanliness Level: {{clean_b}},
+Smoking/Drinking: {{smoke_b}}, Personality: {{personality_b}}, 
+Ideal Roommate: {{ideal_b}}
+
+Return only the score and reasoning like:
+Score: 85
+Reason: They share similar cleanliness, are both early risers, and have aligned social preferences.

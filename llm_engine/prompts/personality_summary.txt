@@ -1,0 +1,10 @@
+🧑‍🎓 Profile Summary:
+
+This student is {{ Name }}, a {{ Age }}-year-old {{ Gender }} from {{ City }}.  
+They follow a {{ Food_Preference }} diet and have a "{{ Sleep_Schedule }}" sleep routine.  
+Their cleanliness level is described as "{{ Cleanliness_Level }}".
+
+They {{ "do not smoke or drink" if Smoking_Drinking == "No" else "smoke or drink: " + Smoking_Drinking }}.  
+Their personality is: {{ Personality_Description }}.
+
+🧠 They are ideally looking for a roommate who is: {{ Ideal_Roommate }}.
